@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn==0.30.0
+pydantic==2.9.0
+python-multipart==0.0.9
+PyMuPDF>=1.27
+arxiv>=4.0.0
+networkx>=3.0
+pandas>=2.0
+openai>=1.0
+python-dotenv>=1.0
+pytest==8.3.0
+pytest-asyncio>=0.23.8,<0.24
